@@ -1,4 +1,4 @@
-# Arkademy
+# Arkademy Batch 14
 
 JSON adalah format untuk pertukaran data client, dan server atau antar aplikasi
 
